@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 **Hi there, I'm Ramin Toosi!**  <br>📜 **PhD in Telecommunication Engineering** @ University of Tehran  <br>🔬 **Areas of Interest**: Machine Learning, Deep Learning, Computer Vision, Computational Neuroscience  <br>💼 **CTO** @ [Avir](https://avir.co.com)  <br>🌐 **Check out my website**: [ramintoosi.ir](https://ramintoosi.ir)  <br>📝 **Interested in my academic work?** Take a look at my [Google Scholar](https://scholar.google.com/citations?user=KzOjvNEAAAAJ&hl=en)  <br>💬 **Feel free to connect!**  <br>- 📧 Email: info@ramintoosi.ir  <br>- 💼 [LinkedIn](https://www.linkedin.com/in/ramin-toosi)
+👋 **Hi there, I'm Ramin Toosi!**  <br>📜 **PhD in Telecommunication Engineering** @ University of Tehran  <br>🔬 **Areas of Interest**: Machine Learning, Deep Learning, Computer Vision, Computational Neuroscience  <br>💼 **CTO** @ [Avir](https://avir.co.com)  <br>🌐 **Check out my website**: [ramintoosi.ir](https://ramintoosi.ir)  <br>📝 **Interested in my academic work?** Take a look at my [Google Scholar](https://scholar.google.com/citations?user=KzOjvNEAAAAJ&hl=en)  <br>💬 **Feel free to connect!**  <br>- 📧 Email: info@ramintoosi.ir
 
 
 ## 🌐 Socials:
