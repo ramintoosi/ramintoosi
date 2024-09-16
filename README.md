@@ -1,5 +1,13 @@
 # 💫 About Me:
-👋 **Hi there, I'm Ramin Toosi!**  <br>📜 **PhD in Telecommunication Engineering** @ University of Tehran  <br>🔬 **Areas of Interest**: Machine Learning, Deep Learning, Computer Vision, Computational Neuroscience  <br>💼 **CTO** @ [Avir](https://avir.co.com)  <br>🌐 **Check out my website**: [ramintoosi.ir](https://ramintoosi.ir)  <br>📝 **Interested in my academic work?** Take a look at my [Google Scholar](https://scholar.google.com/citations?user=KzOjvNEAAAAJ&hl=en)  <br>💬 **Feel free to connect!**  <br>- 📧 Email: info@ramintoosi.ir
+👋 **Hi there, I'm Ramin Toosi!**  
+📜 **PhD in Telecommunication Engineering** @ University of Tehran  
+🔬 **Areas of Interest**: Machine Learning, Deep Learning, Computer Vision, Computational Neuroscience  
+💼 **CTO** @ [Avir](https://avir.co.com)  
+🌐 **Check out my website**: [ramintoosi.ir](https://ramintoosi.ir)  
+📝 **Interested in my academic work?** Take a look at my [Google Scholar](https://scholar.google.com/citations?user=KzOjvNEAAAAJ&hl=en) 
+
+💬 **Feel free to connect!**  
+  - 📧 info@ramintoosi.ir
 
 
 ## 🌐 Socials:
@@ -18,8 +26,9 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ramintoosi&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+[//]: # (### 🔝 Top Contributed Repo)
+[//]: # (![](https://github-contributor-stats.vercel.app/api?username=ramintoosi&limit=5&theme=dark&combine_all_yearly_contributions=true))
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ramintoosi&icon=0&color=5)](https://visitcount.itsvg.in)
