@@ -2,7 +2,7 @@
 👋 **Hi there, I'm Ramin Toosi!**  
 📜 **PhD in Telecommunication Engineering** @ University of Tehran  
 🔬 **Areas of Interest**: Machine Learning, Deep Learning, Computer Vision, Computational Neuroscience  
-💼 **CTO** @ [Avir](https://avir.co.com)  
+💼 **ML Engineer**
 🌐 **Check out my website**: [ramintoosi.ir](https://ramintoosi.ir)  
 📝 **Interested in my academic work?** Take a look at my [Google Scholar](https://scholar.google.com/citations?user=KzOjvNEAAAAJ&hl=en) 
 
